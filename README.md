@@ -1,1 +1,2 @@
-operating systems
+- [lab1](https://github.com/FearlessAtom/operating-systems/tree/lab1)
+- [lab2](https://github.com/FearlessAtom/operating-systems/tree/lab2)
