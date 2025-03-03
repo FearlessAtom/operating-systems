@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\SOFTWARE\Key_IPZ-23-1_27]
+
+[HKEY_CURRENT_USER\SOFTWARE\MyRegFile_IPZ-23-1_27]
+@="This is a default value"
+"UserName"="Семенчук_Олексій_27"
+"UserStatus"="Active"
+"Password"=hex:
+"PostsCount"=dword:00000027
