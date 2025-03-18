@@ -1,1 +1,1 @@
-[main branch](https://github.com/FearlessAtom/operating-systems/tree/lab5)
+[main branch](https://github.com/FearlessAtom/operating-systems/)
