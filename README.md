@@ -5,3 +5,4 @@
 - [lab5](https://github.com/FearlessAtom/operating-systems/tree/lab5)
 - [lab6](https://github.com/FearlessAtom/operating-systems/tree/lab6)
 - [lab7](https://github.com/FearlessAtom/operating-systems/tree/lab7)
+- [lab8](https://github.com/FearlessAtom/operating-systems/tree/lab8)
