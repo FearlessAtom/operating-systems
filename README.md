@@ -6,3 +6,7 @@
 - [lab6](https://github.com/FearlessAtom/operating-systems/tree/lab6)
 - [lab7](https://github.com/FearlessAtom/operating-systems/tree/lab7)
 - [lab8](https://github.com/FearlessAtom/operating-systems/tree/lab8)
+
+---
+
+- [test1](https://github.com/FearlessAtom/operating-systems/tree/test1)
