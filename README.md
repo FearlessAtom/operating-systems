@@ -7,6 +7,7 @@
 - [lab7](https://github.com/FearlessAtom/operating-systems/tree/lab7)
 - [lab8](https://github.com/FearlessAtom/operating-systems/tree/lab8)
 - [lab9](https://github.com/FearlessAtom/operating-systems/tree/lab9)
+- [lab10](https://github.com/FearlessAtom/operating-systems/tree/lab10)
 
 ---
 
